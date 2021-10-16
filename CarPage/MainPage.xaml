@@ -5,37 +5,43 @@
     <ContentPage
  BackgroundColor="Gray" Padding="20">
         <StackLayout>
-            <Label Text="Red"
- FontSize="Medium" FontAttributes="Bold"
- HorizontalOptions="Center" />
+            <Label Text="RosyBrown"
+                   FontSize="Medium" 
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
             <BoxView Color="RosyBrown"
- WidthRequest="200" HeightRequest="200"
- HorizontalOptions="Center"
- VerticalOptions="CenterAndExpand" />
+                     WidthRequest="200" 
+                     HeightRequest="200"
+                     HorizontalOptions="Center"
+                     VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage>
     <ContentPage
  BackgroundColor="WhiteSmoke" Padding="20">
         <StackLayout>
-            <Label Text="Green"
- FontSize="Medium"
- HorizontalOptions="Center" />
+            <Label Text="Gainsboro"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
             <BoxView Color="Gainsboro" 
- WidthRequest="200" HeightRequest="200"
- HorizontalOptions="Center"
- VerticalOptions="CenterAndExpand" />
+                     WidthRequest="200" 
+                     HeightRequest="200"
+                     HorizontalOptions="Center"
+                     VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage>
     <ContentPage
  BackgroundColor="OldLace" Padding="20">
         <StackLayout>
-            <Label Text="Blue"
- FontSize="Medium"
- HorizontalOptions="Center" />
+            <Label Text="BlanchedAlmond"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
             <BoxView Color="BlanchedAlmond"
- WidthRequest="200" HeightRequest="200"
- HorizontalOptions="Center"
- VerticalOptions="CenterAndExpand" />
+                     WidthRequest="200" 
+                     HeightRequest="200"
+                     HorizontalOptions="Center"
+                     VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage>
 </CarouselPage>
